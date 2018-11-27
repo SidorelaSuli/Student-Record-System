@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-/// comment added
+
 struct student{
     char ID[15];
     char name[20];
